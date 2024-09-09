@@ -1,4 +1,5 @@
-# Discord API Kullanım Kılavuzu
+# Discord API Kullanım Kılavuzu <img src="https://komarev.com/ghpvc/?username=Application-Programming-Interface&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/v14-PublicEkipBot" />
+
 
 Bu proje, Discord kullanıcıları ve sunucuları hakkında bilgi almak için kullanılan bir API sağlayıcısını kullanarak kayıt sistemlerinizi geliştirmek için kullanılabilir.
 ## API Erişim Bilgileri
